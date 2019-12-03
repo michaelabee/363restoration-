@@ -1,0 +1,10 @@
+body{
+    background-image: URL('./images/background.jpg');
+    background-size: cover;
+};
+
+.navbar-custom{
+    color:white;
+    font-weight: bold;
+    background-color: darkgray;
+}
