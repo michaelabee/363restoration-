@@ -11,14 +11,32 @@
     font-size:55px;
     text-align:center;  
 }
+
 .navbar-custom{
     color:white;
     font-weight: bold;
     background-color: red;
 }
 
+#logo{
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: black;
+}
+
 #tagline{
     text-align:center;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+    min-height: 100%;
+
 }
 
 body{
