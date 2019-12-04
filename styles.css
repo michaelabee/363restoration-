@@ -1,10 +1,27 @@
+
+#main-text{
+    background-color:white !important;
+    border:solid red 1px;
+    margin-top:20px;
+    margin-right:4px;
+    margin-left:4px;
+}
+
+#title{
+    font-size:55px;
+    text-align:center;  
+}
+.navbar-custom{
+    color:white;
+    font-weight: bold;
+    background-color: red;
+}
+
+#tagline{
+    text-align:center;
+}
+
 body{
     background-image: URL('./images/background.jpg');
     background-size: cover;
 };
-
-.navbar-custom{
-    color:white;
-    font-weight: bold;
-    background-color: darkgray;
-}
