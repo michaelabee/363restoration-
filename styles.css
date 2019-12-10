@@ -78,6 +78,12 @@
     font-weight: bold;
 }
 
+.car-title{
+    background-color:white;
+    font:black;
+    border: 1px solid black;
+}
+
 body{
     background-image: URL('./images/background.jpg');
     background-size: cover;
