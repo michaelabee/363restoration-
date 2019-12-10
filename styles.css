@@ -16,10 +16,9 @@
     text-align:center;  
 }
 
-.navbar-custom{
-    color:white;
-    font-weight: bold;
-    background-color: red;
+.nav{
+    padding:4px;
+    
 }
 
 #logo{
